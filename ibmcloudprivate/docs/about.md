@@ -1,6 +1,6 @@
-# About
+# About me
 
-Enjoy learning technology, cycling, photography.
+I enjoy learning technology, cycling, photography.
 
 
 - [linkedin](https://www.linkedin.com/in/jaric-sng-b104472/)
