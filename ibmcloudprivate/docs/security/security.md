@@ -5,8 +5,6 @@
 - [IAM adoption guide](https://www.ibm.com/support/knowledgecenter/SSBS6K_3.1.2/user_management/iam_guide.html?view=kc) 
 
 ## DevSecOps
-- [Managing images](https://www.ibm.com/support/knowledgecenter/SSBS6K_3.1.2/manage_images/managing_images.html?view=kc)
-- [Managing workloads](https://www.ibm.com/support/knowledgecenter/SSBS6K_3.1.2/manage_applications/manage_workloads.html?view=kc)
 
 ### Operator
 
@@ -25,6 +23,8 @@
 - [Managing charts and apps](https://www.ibm.com/support/knowledgecenter/SSBS6K_3.1.2/app_center/app_center.html?view=kc)
 - [Managing services](https://www.ibm.com/support/knowledgecenter/SSBS6K_3.1.2/manage_applications/app_services.html?view=kc)
 - [Service Catalog](https://www.ibm.com/support/knowledgecenter/SSBS6K_3.1.2/manage_applications/service_cat.html?view=kc)
+- [Managing images](https://www.ibm.com/support/knowledgecenter/SSBS6K_3.1.2/manage_images/managing_images.html?view=kc)
+- [Managing workloads](https://www.ibm.com/support/knowledgecenter/SSBS6K_3.1.2/manage_applications/manage_workloads.html?view=kc)
 
 ## Application
 
