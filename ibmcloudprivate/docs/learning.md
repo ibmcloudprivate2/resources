@@ -85,4 +85,7 @@ In this course, you learn how to implement resilience in an IBM Cloud Private en
 
 [course details](https://www.ibm.com/cloud/garage/content/course/ibm-cloud-private-resilience/0)
 
+### IBM Cloud Transformation Advisor
+IBM Cloud™ Transformation Advisor helps you analyze your on-premises workloads for modernization. When you run Advisor for the first time, you have a choice of data collector agents that you can download and run on your on-premises servers. The data collector analyzes your Java® EE applications (running on IBM WebSphere® Application Server, JBoss®, or WebLogic application servers) and MQ queue managers and automatically upload the results to Advisor. Advisor then classifies your Java applications and MQ queue managers as simple, moderate or complex to move and even estimates the development effort required to move them.
 
+[course details](https://developer.ibm.com/recipes/tutorials/using-the-transformation-advisor-on-ibm-cloud-private/)
