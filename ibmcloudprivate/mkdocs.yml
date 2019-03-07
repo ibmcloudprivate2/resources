@@ -2,6 +2,7 @@ site_name: My IBM Cloud Private resources
 nav:
     - Home: index.md
     - Learning: learning.md
+    - Best Practices: ./security/bestpractices.md
     - Security: ./security/security.md
     - About: about.md
 theme: readthedocs
