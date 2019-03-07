@@ -5,4 +5,6 @@ nav:
     - Best Practices: ./security/bestpractices.md
     - Security: ./security/security.md
     - About: about.md
-theme: readthedocs
+#theme: readthedocs
+theme:
+  name: 'material'
