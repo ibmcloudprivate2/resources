@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: My IBM Cloud Private resources
 nav:
     - Home: index.md
     - Learning: learning.md
