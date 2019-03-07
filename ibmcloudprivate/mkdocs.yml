@@ -1,6 +1,8 @@
 site_name: My IBM Cloud Private resources
 nav:
     - Home: index.md
+    - Architecture: architecture.md
+    - Solution: solution.md
     - Learning: learning.md
     - Best Practices: ./security/bestpractices.md
     - Security: ./security/security.md
