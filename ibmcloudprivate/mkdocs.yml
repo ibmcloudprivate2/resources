@@ -1,0 +1,7 @@
+site_name: My Docs
+nav:
+    - Home: index.md
+    - Learning: learning.md
+    - Security: ./security/security.md
+    - About: about.md
+theme: readthedocs
