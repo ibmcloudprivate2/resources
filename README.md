@@ -1,6 +1,6 @@
 # resources
 
-a landing page to kubernetes, docker, cloud technology resources which in IBM Cloud Private.
+a landing page to kubernetes, docker, cloud technology resources used in IBM Cloud Private.
 
 - Architecting with IBM Cloud Private
 - Security consideration, guidelines
