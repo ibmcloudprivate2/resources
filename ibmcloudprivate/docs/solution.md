@@ -10,7 +10,7 @@ When IBM Software Group decided to develop on Kubernetes, I mooted the idea of a
 2. [Zhimin Wen](https://medium.com/@zhimin.wen)
 3. [Paulus Gunadi](https://www.linkedin.com/in/paulus-gunadi-446323/?originalSubdomain=sg)
 
-It is a pleasure to work with them.
+IBM Cloud Private started from [IBM® Spectrum Conductor for Containers](https://www.ibm.com/support/knowledgecenter/en/SS8TQM/product_welcome_containers.html).
 
 ## Deploy ICP with terraform
 - [terraform for IBM Cloud](https://github.com/pjgunadi/ibm-cloud-private-terraform-softlayer)
