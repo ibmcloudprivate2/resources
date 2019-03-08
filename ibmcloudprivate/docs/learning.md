@@ -89,3 +89,19 @@ In this course, you learn how to implement resilience in an IBM Cloud Private en
 IBM Cloud™ Transformation Advisor helps you analyze your on-premises workloads for modernization. When you run Advisor for the first time, you have a choice of data collector agents that you can download and run on your on-premises servers. The data collector analyzes your Java® EE applications (running on IBM WebSphere® Application Server, JBoss®, or WebLogic application servers) and MQ queue managers and automatically upload the results to Advisor. Advisor then classifies your Java applications and MQ queue managers as simple, moderate or complex to move and even estimates the development effort required to move them.
 
 [course details](https://developer.ibm.com/recipes/tutorials/using-the-transformation-advisor-on-ibm-cloud-private/)
+
+## IBM Code Patterns
+[IBM Code Patterns](https://developer.ibm.com/patterns/) is a landing page where you can find many sample codes for different domains.
+
+## IBM Open Source Way
+[IBM does open source](https://developer.ibm.com/open/culture/) at scale. Our open source management process balances development and compliance, and is the result of our experience since the beginning- when the definition of open source was formalized nearly 20 years ago.
+
+### IBM Open projects
+You can find many IBM open project at [IBM Open projects](https://developer.ibm.com/open/projects/).
+
+To name a few here ...
+- LoopBack
+- OpenWhisk
+- Frida
+- AI-mergency
+- Watson developer nodejs, swift, java, unity

@@ -21,3 +21,10 @@ In the modern era, software is commonly delivered as a service: called web apps,
 
 The [twelve-factor methodology](https://12factor.net/) can be applied to apps written in any programming language, and which use any combination of backing services (database, queue, memory cache, etc).
 
+## How-To Guides
+-   [Backup and Restore IBM Cloud Private environment](https://github.com/ibm-cloud-architecture/icp-backup)
+-   [Deploy Hyperledger fabric on IBM Cloud Private](https://github.com/ibm-cloud-architecture/refarch-privatecloud-blockchain)
+-   [Deploy Highly-Available MongoDB from IBM Cloud Private](https://github.com/ibm-cloud-architecture/refarch-icp-mongodb)
+-   [IBM Cloud Private Resiliency Best Practices](https://github.com/ibm-cloud-architecture/refarch-privatecloud/tree/master/Resiliency)
+-   [IBM Cloud Private Storage Best Practices](https://github.com/ibm-cloud-architecture/refarch-privatecloud/blob/master/ICp-Storage_best_practice.md)
+-   [IBM Cloud Private DevOps Guidance](https://github.com/ibm-cloud-architecture/refarch-privatecloud/blob/master/Implementing%20DevOps%20for%20IBM%20Cloud.private.md)
