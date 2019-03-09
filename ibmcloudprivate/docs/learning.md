@@ -100,6 +100,7 @@ IBM Cloud™ Transformation Advisor helps you analyze your on-premises workloads
 You can find many IBM open project at [IBM Open projects](https://developer.ibm.com/open/projects/).
 
 To name a few here ...
+
 - LoopBack
 - OpenWhisk
 - Frida
