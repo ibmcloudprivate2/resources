@@ -16,3 +16,10 @@ You determine the architecture of your IBM Cloud Private cluster before you inst
 -   [Cluster architectures](https://www.ibm.com/support/knowledgecenter/SSBS6K_3.1.2/getting_started/architecture.html?view=kc#cluster)
 
 
+# Reference Architectures
+
+- [Security to safeguard and monitor your cloud apps](https://www.ibm.com/cloud/garage/architectures/securityArchitecture)
+- [Microservices for fast time to market and improved app quality](https://www.ibm.com/cloud/garage/architectures/microservices)
+- [Modernize your application](https://www.ibm.com/cloud/garage/architectures/application-modernization)
+- [Hybrid integration for solutions that span environments](https://www.ibm.com/cloud/garage/architectures/hybridIntegration)
+- [Private cloud for maximum control with the benefits of cloud](https://www.ibm.com/cloud/garage/architectures/private-cloud/reference-architecture)
