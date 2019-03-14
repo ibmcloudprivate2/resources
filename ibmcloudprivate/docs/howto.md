@@ -11,4 +11,5 @@ to provides link to how-to guides sample application type to IBM Cloud Private.
 - .net core
 - .net framework
 - nodejs
+- rail
   
