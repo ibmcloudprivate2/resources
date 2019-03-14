@@ -6,6 +6,8 @@ nav:
     - Learning: learning.md
     - Best Practices: ./security/bestpractices.md
     - Security: ./security/security.md
+    - How-To Guides: howto.md
+    - Troubleshoot Kubernetes Deployments: troubleshoot.md
     - About: about.md
 #theme: readthedocs
 theme:

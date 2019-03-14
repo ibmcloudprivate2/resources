@@ -96,6 +96,14 @@ IBM Cloud™ Transformation Advisor helps you analyze your on-premises workloads
 ## IBM Open Source Way
 [IBM does open source](https://developer.ibm.com/open/culture/) at scale. Our open source management process balances development and compliance, and is the result of our experience since the beginning- when the definition of open source was formalized nearly 20 years ago.
 
+## Coursera courses
+
+- [IBM Cloud Private Architecture and components](https://www.coursera.org/lecture/deploy-micro-kube-icp/architecture-components-Rcr2E)
+- [IBM Cloud Private: Deploying Microservices with Kubernetes](https://www.coursera.org/learn/deploy-micro-kube-icp)
+- [Developing and Deploying Microservices with Microclimate](https://www.coursera.org/learn/ibm-microservice-microclimate)
+- [IBM Microservices Specialization](https://www.coursera.org/specializations/ibm-microservices)
+
+
 ### IBM Open projects
 You can find many IBM open project at [IBM Open projects](https://developer.ibm.com/open/projects/).
 

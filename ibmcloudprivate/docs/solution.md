@@ -4,6 +4,19 @@
 - [Architecting with IBM Cloud Private (Part 1)](https://medium.com/@jaricsng/architecting-with-ibm-cloud-private-2a8e0b17efd2)
 - [Architecting with IBM Cloud Private (Part 2)](https://medium.com/@jaricsng/architecting-with-ibm-cloud-private-part-2-c9a758ad0556)
 
+### Consideration
+
+- bare metal or virtual server
+- deploy in public or private or hybrid
+- workload
+- storage consideration for application static, dynamic, access mode and lifecycle
+- security compliance, governance
+- isolation of workload, resources, logical or physical isolation
+- onboarding of applications, users
+- monitoring and logging
+- vulnerabiity scanning frequency
+- processes and control for delivery
+
 ## Deploy ICP with terraform
 - [terraform for IBM Cloud](https://github.com/pjgunadi/ibm-cloud-private-terraform-softlayer)
 - [terraform for Nutanix](https://github.com/pjgunadi/ibm-cloud-private-terraform-nutanix)
@@ -21,6 +34,8 @@ the above created by [Paulus Gunadi](https://github.com/pjgunadi), he is from so
 - [Custom Notifications with Alert Manager’s Webhook Receiver in Kubernetes](https://medium.com/@zhimin.wen/custom-notifications-with-alert-managers-webhook-receiver-in-kubernetes-8e1152ba2c31)
 
 more articles from [Zhimin Wen](https://medium.com/@zhimin.wen), he is from software services.
+
+- [Pain(less) NGINX Ingress](https://danielfm.me/posts/painless-nginx-ingress.html)
 
 ## Exploration
 - [End-to-end automated environment with Vagrant, Ansible, Docker, Jenkins, and GitLab](https://medium.com/@ernesenorelus/end-to-end-automated-environment-with-vagrant-ansible-docker-jenkins-and-gitlab-32bb91fbee40)
