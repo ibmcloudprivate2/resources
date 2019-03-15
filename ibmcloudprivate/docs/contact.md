@@ -7,7 +7,8 @@ Get in touch with us:
 - application modernisation and consulting
 
 
-Jaric Sng  
+Jaric Sng
+
 - IBM Cloud and Cognitive Software (ASEAN) 
 - IBM Hybrid Cloud Software
 - Technical Leader, IBM Cloud Private (ASEAN)
@@ -20,5 +21,5 @@ Jaric Sng
 - Philippines
 - Singapore
 - Thailand
-- Vietnam (Hanoi & Ho Chih Min)
+- Vietnam (Hanoi & Ho Chi Minh)
 
