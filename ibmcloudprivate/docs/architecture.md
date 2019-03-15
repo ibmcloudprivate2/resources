@@ -23,5 +23,6 @@ You determine the architecture of your IBM Cloud Private cluster before you inst
 - [Modernize your application](https://www.ibm.com/cloud/garage/architectures/application-modernization)
 - [Hybrid integration for solutions that span environments](https://www.ibm.com/cloud/garage/architectures/hybridIntegration)
 - [Private cloud for maximum control with the benefits of cloud](https://www.ibm.com/cloud/garage/architectures/private-cloud/reference-architecture)
+- [IBM Cloud Private on Red Hat OpenShift](https://www.ibm.com/cloud/garage/architectures/ibm-cloud-private-red-hat-openshift/reference-architecture)
 
 other [reference architectures](https://www.ibm.com/cloud/garage/architectures).

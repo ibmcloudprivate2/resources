@@ -28,3 +28,4 @@ The [twelve-factor methodology](https://12factor.net/) can be applied to apps wr
 -   [IBM Cloud Private Resiliency Best Practices](https://github.com/ibm-cloud-architecture/refarch-privatecloud/tree/master/Resiliency)
 -   [IBM Cloud Private Storage Best Practices](https://github.com/ibm-cloud-architecture/refarch-privatecloud/blob/master/ICp-Storage_best_practice.md)
 -   [IBM Cloud Private DevOps Guidance](https://github.com/ibm-cloud-architecture/refarch-privatecloud/blob/master/Implementing%20DevOps%20for%20IBM%20Cloud.private.md)
+-   [Implement high availability on IBM Cloud Private](https://www.ibm.com/cloud/garage/practices/manage/high-availability-ibm-cloud-private)
