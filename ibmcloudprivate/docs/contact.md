@@ -6,13 +6,12 @@ Get in touch with us:
 - request webex session to learn more about IBM Cloud Private
 - application modernisation and consulting
 
-|   |
-|---|
-| Jaric Sng  |
-| IBM Cloud and Cognitive Software (ASEAN)  |
-| IBM Hybrid Cloud Software  |
-| Technical Leader, IBM Cloud Private (ASEAN)  |
-| sngtpj@sg.ibm.com |
+
+Jaric Sng  
+- IBM Cloud and Cognitive Software (ASEAN) 
+- IBM Hybrid Cloud Software
+- Technical Leader, IBM Cloud Private (ASEAN)
+- sngtpj@sg.ibm.com
 
 ## Countries covered
 
