@@ -8,6 +8,7 @@ nav:
     - Security: ./security/security.md
     - How-To Guides: howto.md
     - Troubleshoot Kubernetes Deployments: troubleshoot.md
+    - Contact: contact.md
     - About: about.md
 #theme: readthedocs
 theme:
