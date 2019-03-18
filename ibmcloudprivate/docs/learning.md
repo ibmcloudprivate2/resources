@@ -80,6 +80,22 @@ In this course, you get an overall picture of security concerns in the cloud and
 
 [course details](https://www.ibm.com/cloud/garage/content/course/ibm-cloud-private-security/0)
 
+### Programming in Cloud
+This module provides an introduction to programming technologies for the cloud.
+
+[course details](https://www.ibm.com/cloud/garage/content/course/cloud-masters-core-programming-in-cloud/0)
+
+### Cloud Ops and Management
+This module in the Cloud Masters Core Solution journey provides fundamental information about operations and management in a Cloud environment.
+
+[course details](https://www.ibm.com/cloud/garage/content/course/cloud-masters-core-cloud-ops-and-management/0)
+
+### Securing Infrastructure Apps and Data
+
+This module in the Cloud Masters Core Solution journey provides an introduction to securing applications and data.
+
+[course details](https://www.ibm.com/cloud/garage/content/course/cloud-masters-core-secure-apps-and-data/0)
+
 ### IBM Cloud Private resilience
 In this course, you learn how to implement resilience in an IBM Cloud Private environment through high availability (HA), disaster recovery (DR), and backups.
 
