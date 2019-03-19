@@ -1,4 +1,4 @@
-site_name: My IBM Cloud Private resources (last updated on 18 Mar 2019)
+site_name: My IBM Cloud Private resources (last updated on 19 Mar 2019)
 nav:
     - Home: index.md
     - Architecture: architecture.md
