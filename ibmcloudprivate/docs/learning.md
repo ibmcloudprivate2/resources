@@ -2,6 +2,11 @@
 
 ## IBM Garage Courses
 
+### Kubernetes - Kubernetes Playground
+This is a Kubernetes playground. From here you can play with a Kubernetes host and explore it's API.
+
+[Details](https://www.katacoda.com/courses/kubernetes/playground)
+
 ### Container & Docker
 Want an introduction to containers? This course is for you. Learn about the benefits of containers in enterprise DevOps environments and about Docker, which is one of the most popular implementations of containers.
 
